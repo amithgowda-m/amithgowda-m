@@ -1,10 +1,5 @@
 # 💫 About Me:
-I’m Amith Gowda, a lifelong learner and aspiring tech innovator. I’m passionate about AI, Machine Learning, Cybersecurity, Cloud Computing, and Data Structures & Algorithms.
-
-I use GitHub to share projects, algorithms, and learning experiments that sharpen my coding skills and explore cutting-edge tech. I’m always exploring new tools, frameworks, and techniques to solve real-world problems efficiently.
-
-Interests: AI/ML, Cybersecurity, Cloud, DSA, Algorithms, Problem-Solving, Coding Challenges
-
+I’m Amith Gowda i am curious about building things that matter in the real world
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amithgowdam) 
