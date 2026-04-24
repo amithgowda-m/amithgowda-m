@@ -77,6 +77,16 @@ const amith = {
 
 </div>
 
+## `$ cat ./leetcode-stats`
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/amithgowda-m?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=8)](https://leetcode.com/u/amithgowda-m)
+
+ Problem solving is not a side skill — it's the **core** skill.
+
+</div>
+
 ---
 
 ## `$ top --processes`
