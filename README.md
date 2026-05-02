@@ -6,10 +6,10 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amithgowdam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amith-gowda-m)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amithgowdasmg@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-1C1C1C?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://yourlink.com)
+[![Resume](https://img.shields.io/badge/Resume-1C1C1C?style=for-the-badge&logo=read-the-docs&logoColor=white)]([https://yourlink.com](https://drive.google.com/file/d/1Cmu-Md3dA90ECr8DUyd9dmUmv7OQZc1v/view?usp=drive_link))
 
 <br/>
 
