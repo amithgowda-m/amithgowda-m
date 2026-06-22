@@ -23,7 +23,7 @@
 
 ```typescript
 const amith = {
-  role       : "Product Engineer — where code meets strategy",
+  role       : "Product Engineer",
   focus      : ["MERN Stack", "System Design", "High-Concurrency Systems"],
   philosophy : "Ship fast. Scale smart. Build for the user.",
   currently  : "Exploring distributed systems & advanced system design",
@@ -83,7 +83,7 @@ const amith = {
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/amithgowda-m?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=8)](https://leetcode.com/u/amithgowda-m)
 
- Problem solving is not a side skill — it's the **core** skill.
+ 
 
 </div>
 
@@ -117,7 +117,7 @@ PID   PROCESS                          STATUS      PRIORITY
 
 <div align="center">
 
-**"The best code is the code that solves the right problem."**
+
 
 <br/>
 
