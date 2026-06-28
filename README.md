@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Name Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2800&pause=1200&color=FF6B35&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Hey%2C+I'm+Amith+Gowda+%F0%9F%91%8B;Product+Engineer+%7C+MERN+Stack;Building+systems+that+actually+scale.;Code+is+craft.+Ship+with+intention." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2800&pause=1200&color=FF6B35&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Hey%2C+I'm+Amith+Gowda+%F0%9F%91%8B;Product+Engineer+%7C+MERN+Stack;Building+systems+that+actually+scale." alt="Typing SVG" />
 
 <br/>
 
