@@ -22,7 +22,7 @@
 ## `$ whoami`
 
 ```typescript
-const amith = {
+amith = {
   role       : "Product Engineer",
   focus      : ["MERN Stack", "System Design", "High-Concurrency Systems"],
   philosophy : "Ship fast. Scale smart. Build for the user.",
