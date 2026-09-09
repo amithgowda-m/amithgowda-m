@@ -20,13 +20,6 @@ Computer Science student based in Bengaluru, building practical full-stack appli
 
 ---
 
-### 📊 Problem Solving & Profiles
-I regularly practice data structures and algorithms to keep my core logic sharp:
-* **[Codeforces](https://codeforces.com/profile/amithgowda)**
-* **[LeetCode](https://leetcode.com/amithgowda-m)**
-
----
-
 ### 🤝 Let's Connect & Collaborate
 
 I'm always open to talking tech, building things, or joining forces:
